@@ -1,6 +1,6 @@
 # Micaelle Queiroz
 ## Sobre 👋
-Oi, eu sou a Micaelle, mas conhecida popularmente como Mica. Entrei no mundo da programação aos 16 anos e atualmente sigo carreira na área. 👩‍💻
+Oi, eu sou a Micaelle, mais conhecida popularmente como Mica. Entrei no mundo da programação aos 16 anos e atualmente sigo carreira na área. 👩‍💻
 
 ## Soft Skills 🎈
 * Aprendizagem contínua
